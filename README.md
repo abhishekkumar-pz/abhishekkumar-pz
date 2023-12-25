@@ -1,4 +1,4 @@
-## Welcome to Abhishek's Git repository. Glad to have you on board! :sparkles:
+## Welcome to Abhishek's Git repository! :sparkles:
 
 ![Welcome to my Profile.](https://github.com/abhishekkumar-pz/abhishekkumar-pz.github.io/blob/08b17095757d20c10f631c1725929f858977e5e3/assets/img/readme-logo.png)
 
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### About me
-I'm a Software Developer :computer:. I like sports and business. :trophy:
+I'm a Software Developer :computer:. I like sports and business. :trophy: <br>
+<b>My Code Journey</b>: Crafting Solutions with Passion and Precision
 
 Currently, I work as a senior software engineer. I did my B.Tech from NIT Surat in Electronics and Communication Engineering.
 
