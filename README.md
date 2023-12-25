@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### About me
+I'm a Software Developer :computer:. I like sports and business. :trophy:
 
-I'm a Software Developer:computer: . I like sports and business. :trophy:
-
-Currently I work as a senior software engineer. I did my B.Tech from NIT Surat in Electronics and Communication Engineering.
+Currently, I work as a senior software engineer. I did my B.Tech from NIT Surat in Electronics and Communication Engineering.
 
 :email: Feel free to leave a [message](mailto:kumarabhishek3114@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/abhishek-kumar3114/)!
